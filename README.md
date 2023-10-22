@@ -1,1 +1,13 @@
 # cs-255-Submission
+
+#SUMMARY:
+#The DriverPass Project was a system whose design was meant to make it easier for prospective drivers to take classes, plan driving instruction, and attain the license to drive. The client was the DriverPass team, and they wanted a system that could be handled online and #in person, where storage was cloud-based, and the head administrator could look at data while on the go, so it had to be usable on a web-based application and on a mobile device.
+
+#Thoughts on my work:
+#Though I could have put more detail into the system design and some of the diagrams that I created, I think I was able to organize both my thoughts and the system requirements effectively. Many of the graphs I designed lacked something eye-catching, and I would certainly #redo those in the future, given the chance. For instance, I could add color or some other designator to indicate what types of objects are present in a UML diagram, or I could include more users in use case diagrams that are relevant to the use case.
+
+#User needs:
+#The user was clear with what they thought was important, as well as what was less important to achieve with the system. Their top priority was the ability to separate responsibilities between certain users so that each role could be fulfilled properly. They also wanted #to be able to check on documents remotely, and they wanted system storage to be cloud-based. All of these aspects were important to the users, so they were implemented first. After that, less and less important aspects were implemented one after another. It's important #that programmers keep in mind what a client needs, otherwise they may lose that client and spread a negative image about themselves, but arguably more importantly, they would sacrifice their own integrity by not doing what is best for the client's desires.
+
+#Software Design:
+#I approach software design with an open mind and a scrutenizing eye- not for what may be "wrong" with the request, but instead what may need to be prioritized or simplified for what they want at the current time. A client isn't always sure about how a program will #function or the work that needs to go into it, which is why they hire engineers in the first place, but that doesn't mean they can't have a specific image in mind about what a program should do or how it should act. I will likely use user stories to prioritize certain #systems and abilities over others, and create a timeline for when certain portions of the system should be finished. From there, I would see what could be done simultaneously by myself and the rest of my team, and what may need clarification from the client.
